@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/ilkeraltin/notetaker-app#readme",
   "dependencies": {
-    "react": "^0.14.6"
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
   },
   "devDependencies": {
     "babel-core": "^6.4.0",
