@@ -1,32 +1,26 @@
 {
-  "name": "notetaker-app",
+  "name": "egghead-notetaker-updates",
   "version": "1.0.0",
-  "description": "the notetaker app",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ilkeraltin/notetaker-app.git"
-  },
-  "author": "ilker ALTIN",
+  "author": "Tyler McGinnis <tylermcginnis33@gmail.com> (http://tylermcginnis.com)",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ilkeraltin/notetaker-app/issues"
-  },
-  "homepage": "https://github.com/ilkeraltin/notetaker-app#readme",
   "dependencies": {
-    "babel-preset-es2015": "^6.3.13",
-    "history": "^1.17.0",
-    "react": "^0.14.6",
-    "react-dom": "^0.14.6",
-    "react-router": "^1.0.3"
+    "firebase": "^2.3.2",
+    "history": "^1.13.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^1.0.1",
+    "reactfire": "^0.5.1"
   },
   "devDependencies": {
-    "babel-core": "^6.4.0",
-    "babel-loader": "^6.2.1",
+    "babel-core": "^6.3.13",
+    "babel-loader": "^6.2.0",
     "babel-preset-es2015": "^6.3.13",
-    "babel-preset-react": "^6.3.13"
+    "babel-preset-react": "^6.3.13",
+    "webpack": "^1.12.9"
   }
 }
