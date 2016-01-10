@@ -1,4 +1,4 @@
-var React = require('react')
+import React from 'react'
 
 var NotesList = React.createClass({
   render: function(){
